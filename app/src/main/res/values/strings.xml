@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IDApplication</string>
+    <string name="dob">dob</string>
+    <string name="gender">gender</string>
+    <string name="nationality">nationality</string>
+    <string name="newLine">newLine</string>
+</resources>
